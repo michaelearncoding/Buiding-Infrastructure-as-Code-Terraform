@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="319c5686-dd05-4ce8-b09d-8b55d554c680" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/main.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/data_factory/data_factory/data_factory.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/data_factory/data_factory/variables.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/storage_account/storage_account/storage_account.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/storage_account/storage_account/variables.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variables.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variables.tfvars" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +123,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ModernDataEngineeringWithCICD$main.coverage" NAME="main Coverage Results" MODIFIED="1735328524398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ModernDataEngineeringWithCICD$main.coverage" NAME="main Coverage Results" MODIFIED="1735338562650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

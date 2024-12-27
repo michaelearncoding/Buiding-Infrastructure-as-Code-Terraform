@@ -11,6 +11,8 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    print_hi('This is a project use terraform to create cloud infrastructures on Azure')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+
