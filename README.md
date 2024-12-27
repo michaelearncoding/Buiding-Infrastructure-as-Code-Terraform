@@ -17,6 +17,6 @@ And in this way, the cloud infrastructure can be managed as code.
 ### Azure Services: data factory and storage account
 
 
-![data factory]()
+![data factory](https://github.com/michaelearncoding/Buiding-Infrastructure-as-Code-Terraform/blob/main/assect/DataFactory.png?raw=true)
 
-![storage account]()
+![storage account](https://github.com/michaelearncoding/Buiding-Infrastructure-as-Code-Terraform/blob/main/assect/StorageAccount_Containers.png?raw=true)
