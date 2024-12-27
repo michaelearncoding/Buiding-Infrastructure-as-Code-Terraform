@@ -1,0 +1,2 @@
+git rm -r --cached .terraform/
+git commit -m "Remove .terraform directory from tracking"
